@@ -1,4 +1,6 @@
 # IniciacaoCientifica
+![Preview do projeto](./images/projeto.png)
+
 Título: Estudo e projeto de sistema de medição utilizando o Arduino Micro
 
 Orientador: Getúlio Teruo Tateoki
