@@ -1,5 +1,5 @@
 # IniciacaoCientifica
-![Preview do projeto](./pexels-pixabay-50711.jpg.png)
+![Preview do projeto](./pexels-pixabay-50711.jpg)
 
 Título: Estudo e projeto de sistema de medição utilizando o Arduino Micro
 
